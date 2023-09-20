@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🛠 Estoy trabajando en: Portfolio<br>📚 Estoy aprendiendo: React.js<br>🎲 Fun fact: Latino lenguaje de programacion en español</p>
+<p align="left">🛠 Estoy trabajando en: Jildam.js<br>📚 Estoy aprendiendo: React.js<br>🎲 Fun fact: Latino es un lenguaje de programacion en español</p>
 
 ###
 
