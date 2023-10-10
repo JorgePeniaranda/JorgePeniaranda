@@ -67,16 +67,16 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jorgepeniaranda&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ayu-mirage&locale=es&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jorgepeniaranda&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ayu-mirage&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=jorgepeniaranda&show_icons=true&count_private=true&locale=es&theme=nord" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgepeniaranda&layout=compact&show_icons=true&locale=es&theme=nord" height="180" alt="languages graph"  />
 </div>
 
 ###
 
-<picture>
+<div align="center">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jorgepeniaranda/jorgepeniaranda/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jorgepeniaranda/jorgepeniaranda/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/jorgepeniaranda/jorgepeniaranda/output/github-contribution-grid-snake.svg" />
-</picture>
+</div>
 
 ###
