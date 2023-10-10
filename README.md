@@ -67,8 +67,8 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jorgepeniaranda&show_icons=true&count_private=true&locale=es&theme=nord" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgepeniaranda&layout=compact&show_icons=true&locale=es&theme=nord" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=jorgepeniaranda&show_icons=true&count_private=true&locale=es&theme=nord" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgepeniaranda&layout=compact&show_icons=true&locale=es&theme=nord" height="150" alt="languages graph"  />
 </div>
 
 ###
