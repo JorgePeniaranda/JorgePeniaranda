@@ -56,7 +56,7 @@
 
 ###
 
-<p align="left">Email: contact@jorgepeniaranda.me<br>Linktree: https://linktr.ee/jorgepeniaranda<br>Linkedin: https://www.linkedin.com/in/JorgePeniaranda/</p>
+<p align="left">Email: contact@jorgepeniaranda.me<br>Bento: https://bento.me/jorgepeniaranda<br>Linkedin: https://www.linkedin.com/in/JorgePeniaranda/</p>
 
 ###
 
