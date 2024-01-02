@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🛠 Estoy trabajando en: Jildam.js<br>📚 Estoy aprendiendo: React.js<br>🎲 Fun fact: EsJs es un lenguaje basado en Javascript en español</p>
+<p align="left">🛠 Estoy trabajando en: Jildam.js<br>📚 Estoy aprendiendo: React.js<br>🎲 Fun fact: EsJs es un lenguaje en español basado en Javascript</p>
 
 ###
 
