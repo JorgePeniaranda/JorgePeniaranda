@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🛠 Estoy trabajando en: Jildam.js<br>📚 Estoy aprendiendo: React.js<br>🎲 Fun fact: EsJs es un lenguaje en español basado en Javascript</p>
+<p align="left">🛠 Estoy trabajando en: Golden Duck<br>📚 Estoy aprendiendo: React.js<br>🎲 Fun fact: EsJs es un lenguaje en español basado en Javascript</p>
 
 ###
 
@@ -35,7 +35,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img src="https://astro.build/favicon.svg" height="40" alt="astro logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
