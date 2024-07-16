@@ -7,11 +7,8 @@
 ###
 
 <h2 align="left">About me</h2>
-
-###
-
 <p align="left">
-  <img src="https://www.bewise.com.es/favicon.ico" width="18" height="18" alt="Bewise Logo"/> Actualmente trabajando en <a href="https://www.bewise.com.es/">Bewise</a><br>
+  <img src="https://www.bewise.com.es/favicon.ico" width="16" height="16" alt="Bewise Logo"/> Actualmente trabajando en <a href="https://www.bewise.com.es/">Bewise</a><br>
   ⭐ Me encanta desarrollar en <a href="https://es.react.dev/">React</a><br>
   🐱‍👤 Estoy estudiando <a href="https://www.fi.uba.ar/grado/carreras/ingenieria-en-informatica">Ingenieria informática</a>
 </p>
@@ -90,9 +87,6 @@
 ###
 
 <h2 align="left">Contact</h2>
-
-###
-
 <p align="left">
   Email: <a href="mailto:jorgepeniaranda@outlook.com.ar">jorgepeniaranda@outlook.com.ar</a><br>
   Web Personal: <a href="https://jorgepeniaranda.dev.ar/">https://jorgepeniaranda.dev.ar</a><br>
