@@ -10,7 +10,11 @@
 
 ###
 
-<p align="left">🛠 Estoy trabajando en: Golden Duck<br>📚 Estoy aprendiendo: React.js<br>🎲 Fun fact: EsJs es un lenguaje en español basado en Javascript</p>
+<p align="left">
+  🏗 Actualmente trabajando en <a href="https://www.bewise.com.es/">Bewise</a><br>
+  ⭐ Me encanta desarrollar en <a href="https://es.react.dev/">React</a><br>
+  🐱‍👤 Estoy estudiando <a href="https://www.fi.uba.ar/grado/carreras/ingenieria-en-informatica">Ingenieria informática</a>
+</p>
 
 ###
 
@@ -63,7 +67,11 @@
 
 ###
 
-<p align="left">Email: contact@jorgepeniaranda.me<br>Bento: https://bento.me/jorgepeniaranda<br>Linkedin: https://www.linkedin.com/in/JorgePeniaranda/</p>
+<p align="left">
+  Email: <a href="mailto:jorgepeniaranda@outlook.com.ar">jorgepeniaranda@outlook.com.ar</a><br>
+  Web Personal: <a href="https://jorgepeniaranda.dev.ar/">https://jorgepeniaranda.dev.ar</a><br>
+  Linkedin: <a href="https://www.linkedin.com/in/JorgePeniaranda/">https://www.linkedin.com/in/JorgePeniaranda</a>
+</p>
 
 ###
 
