@@ -39,43 +39,47 @@
     </thead>
     <tbody>
       <tr aria-label="First Row">
-        <th aria-label="Front-End Stack">
+        <th aria-label="Front-End Stack" align="center">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 Logo" aria-label="HTML5" />
-          <img width="12" aria-label="Separator Image" />
+          <img width="14" aria-label="Separator Image" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 Logo" aria-label="CSS3" />
-          <img width="12" aria-label="Separator Image" />
+          <img width="14" aria-label="Separator Image" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript Logo" aria-label="JavaScript" />
-          <img width="12" aria-label="Separator Image" />
+          <img width="14" aria-label="Separator Image" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript Logo" aria-label="TypeScript" />
-          <img width="12" aria-label="Separator Image" />
+          <img width="14" aria-label="Separator Image" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Logo" aria-label="React" />
-          <img width="12" aria-label="Separator Image" />
+          <img width="14" aria-label="Separator Image" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js Logo" aria-label="Next.js" />
-          <img width="12" aria-label="Separator Image" />
+          <img width="14" aria-label="Separator Image" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" height="40" alt="Astro Logo" aria-label="Astro" />
-          <img width="12" aria-label="Separator Image" />
+          <img width="14" aria-label="Separator Image" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="TailwindCSS Logo" aria-label="TailwindCSS" />
-          <img width="12" aria-label="Separator Image" />
+          <img width="14" aria-label="Separator Image" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="SASS / SCSS Logo" aria-label="SASS / SCSS" />
         </th>
-        <th aria-label="Back-End Stack">
+        <th aria-label="Back-End Stack" align="center">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js Logo" aria-label="Node.js" />
-          <img width="12" aria-label="Separator Image" />
+          <img width="14" aria-label="Separator Image" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="40" alt="Express.js Logo" aria-label="Express.js" />
-          <img width="12" aria-label="Separator Image" />
+          <img width="14" aria-label="Separator Image" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height="40" alt="Nest.js Logo" aria-label="Nest.js" />
-          <img width="12" aria-label="Separator Image" />
+          <img width="14" aria-label="Separator Image" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" height="40" alt="GraphQL Logo" aria-label="GraphQL" />
-          <img width="12" aria-label="Separator Image" />
+          <img width="14" aria-label="Separator Image" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" height="40" alt="Go Logo" aria-label="GoLang" />
         </th>
-        <th aria-label="DevOps Stack">
+        <th aria-label="DevOps Stack" align="center">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" height="40" alt="Eslint Logo" aria-label="Eslint" />
+          <img width="14" aria-label="Separator Image" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git Logo" aria-label="Git" />
-          <img width="12" aria-label="Separator Image" />
+          <img width="14" aria-label="Separator Image" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub Logo" aria-label="GitHub" />
-          <img width="12" aria-label="Separator Image" />
+          <img width="14" aria-label="Separator Image" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="GitLab Logo" aria-label="GitLab" />
-          <img width="12" aria-label="Separator Image" />
+          <img width="14" aria-label="Separator Image" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" alt="Docker Logo" aria-label="Docker" />
+          <img width="14" aria-label="Separator Image" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux Logo" aria-label="Linux" />
         </th>
       </tr>
