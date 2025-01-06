@@ -102,7 +102,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jorgepeniaranda&show_icons=true&count_private=true&locale=es&theme=nord" height="150" alt="GitHub Account Stats"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=jorgepeniaranda&show_icons=true&count_private=true&locale=es&theme=nord&include_all_commits=true" height="150" alt="GitHub Account Stats"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgepeniaranda&layout=compact&show_icons=true&locale=es&theme=nord" height="150" alt="GitHub Account Language Chart"  />
 </div>
 
